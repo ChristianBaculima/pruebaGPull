@@ -32,3 +32,4 @@ print(len(ejemplo))
 
 print('se realiza otro commit')
 print('posterior commit')
+print('ejemplo de git pull')
