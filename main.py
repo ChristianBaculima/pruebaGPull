@@ -33,3 +33,5 @@ print(len(ejemplo))
 print('se realiza otro commit')
 print('posterior commit')
 print('ejemplo de git pull')
+
+print('ejemplo 2 nov 19:17')
