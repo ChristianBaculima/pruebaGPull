@@ -43,3 +43,5 @@ print('ejemplo 8 nov 14:07')
 print('ejemplo 8 nov 15:53')
 
 print('ejemplo 9 nov 10:50')
+
+print('ejemplo 27 Feb 2023')
